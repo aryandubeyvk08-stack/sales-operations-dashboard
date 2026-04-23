@@ -21,13 +21,6 @@ This project analyzes sales performance, profitability, and operational efficien
 * DAX
 * Excel
 
----
-
-## 📊 Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
 
 ## 📂 Files
 
